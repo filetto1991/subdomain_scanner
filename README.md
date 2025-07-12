@@ -19,8 +19,9 @@ cd subdomain-scanner
 
 # Install dependencies
 pip install -r requirements.txt
-requirements.txt contains:
-Copy
+
+## requirements.txt contains:
+
 dnspython>=2.3.0
 tqdm>=4.65.0
 
