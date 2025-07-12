@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## requirements.txt contains:
 
-dnspython>=2.3.0
+dnspython>=2.3.0 \n
 tqdm>=4.65.0
 
 # Quick Start
