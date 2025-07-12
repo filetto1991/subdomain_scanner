@@ -54,3 +54,8 @@ python subdomain_scanner.py example.com \
   -t 100 \
   --types A,AAAA,CNAME \
   -o out.json
+
+# 🛡️ Legal Disclaimer  
+
+This tool is intended for educational purposes and for testing on domains you own or have explicit permission to test. Unauthorized use against third-party domains may be illegal.
+
